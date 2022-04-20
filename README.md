@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/repo-header-image.png"> </div>
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Aditya Arnav</h1>
 <h3 align="center">A passionate full stack developer</h3>
 

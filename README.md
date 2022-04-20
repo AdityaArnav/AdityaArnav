@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+<div align="center"> <img src="https://github.com/AdityaArnav/100-days-50-project/blob/main/Assignment/github-header-image%20(2).png?raw=true"> </div>
 <h1 align="center">Hi 👋, I'm Aditya Arnav</h1>
 <h3 align="center">A passionate full stack developer</h3>
 

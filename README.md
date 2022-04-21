@@ -1,8 +1,6 @@
-
+<div align="center" height="200px"> <img src="https://github.com/AdityaArnav/100-days-50-project/blob/main/Assignment/github-header-image%20(2).png?raw=true"> </div>
 <div align="center"> <img src="https://camo.githubusercontent.com/f6c5b94c1934b64f88546e0253e91503af0501f5343142cacf8972cf0ae27919/68747470733a2f2f6f6e6c796c696e6b732e70726f2f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6d61696e2d71696d672d66613762346264633362326637336537343965356332633634366434616531332e676966"> </div>
-<div align="center"> <img src="https://github.com/AdityaArnav/100-days-50-project/blob/main/Assignment/github-header-image%20(2).png?raw=true"> </div>
-<h1 align="center">Hi 👋, I'm Aditya Arnav
-<img src="https://github.com/AdityaArnav/100-days-50-project/blob/main/Assignment/github-header-image%20(2).png?raw=true"></h1>
+<h1 align="center">Hi 👋, I'm Aditya Arnav</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaarnav&label=Profile%20views&color=0e75b6&style=flat" alt="adityaarnav" /> </p>
